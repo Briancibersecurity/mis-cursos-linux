@@ -11,6 +11,6 @@
   },
   "backend": {
     "imageid": "ubuntu",
-    "setup": "foreground.sh"
+    "setup": "linux-lab-1/foreground.sh"
   }
 }
