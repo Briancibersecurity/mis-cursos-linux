@@ -9,8 +9,8 @@
     "intro": { "text": "intro.md" },
     "finish": { "text": "finish.md" }
   },
-  "backend": {
+"backend": {
     "imageid": "ubuntu",
-    "setup": "linux-lab-1/foreground.sh"
+    "foreground": "foreground.sh"
   }
 }
