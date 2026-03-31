@@ -1,25 +1,16 @@
 {
-  "title": "Linux Fundamentals - Parte 1",
-  "description": "Aprende a navegar por la terminal como un pro",
+  "title": "Linux Fundamentals - Nivel 1",
+  "description": "Aprende comandos básicos con The Cloud Guard.",
   "details": {
     "steps": [
-      {
-        "title": "Identidad y Ubicación",
-        "text": "paso1.md"
-      },
-      {
-        "title": "Encuentra el Secreto",
-        "text": "paso2.md"
-      }
+      { "title": "Identidad y Ubicación", "text": "paso1.md" },
+      { "title": "Navegación y Lectura", "text": "paso2.md" }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu",
+    "foreground": "foreground.sh"
   }
 }
