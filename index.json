@@ -1,0 +1,25 @@
+{
+  "title": "Linux Fundamentals - Parte 1",
+  "description": "Aprende a navegar por la terminal como un pro",
+  "details": {
+    "steps": [
+      {
+        "title": "Identidad y Ubicación",
+        "text": "paso1.md"
+      },
+      {
+        "title": "Encuentra el Secreto",
+        "text": "paso2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
