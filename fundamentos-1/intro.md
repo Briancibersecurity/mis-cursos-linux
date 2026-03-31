@@ -1,4 +1,4 @@
-# ¡Bienvenido a tu primer laboratorio de Linux![cite: 1]
+# ¡Bienvenido a tu primer laboratorio de Linux!
 
 En este escenario vas a practicar los comandos básicos que vimos en el video. 
 No tengas miedo de romper nada, ¡es una máquina de pruebas![cite: 1]
