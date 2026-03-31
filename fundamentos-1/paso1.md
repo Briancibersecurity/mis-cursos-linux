@@ -1,4 +1,4 @@
-### Paso 1: Identidad y Ubicación[cite: 1]
+### Paso 1: Identidad y Ubicación
 
 La terminal es un entorno basado en texto. Lo primero es saber con qué usuario estamos trabajando.
 
