@@ -11,6 +11,6 @@
   },
 "backend": {
     "imageid": "ubuntu",
-    "foreground": "foreground.sh"
+    "setup": "mkdir -p /root/Documentos && echo '¡Felicidades! Has dominado los fundamentos de Linux nivel 1.' > /root/Documentos/secreto.txt"
   }
 }
