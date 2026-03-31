@@ -4,10 +4,10 @@ En este escenario vas a practicar los comandos básicos que vimos en el video.
 No tengas miedo de romper nada, ¡es una máquina de pruebas![cite: 1]
 
 **Aprenderás a usar:**
-* `whoami`[cite: 1]
-* `pwd`[cite: 1]
-* `ls`[cite: 1]
-* `cd`[cite: 1]
-* `cat`[cite: 1]
+* `whoami`
+* `pwd`
+* `ls`
+* `cd`
+* `cat`
 
 Dale clic al botón **Start** para comenzar.
