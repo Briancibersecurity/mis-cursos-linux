@@ -11,6 +11,6 @@
   },
   "backend": {
     "imageid": "ubuntu",
-    "foreground": "foreground.sh"
+    "setup": "foreground.sh"
   }
 }
